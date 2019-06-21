@@ -17,5 +17,5 @@ npm run build
 
 ### Serve app (temporary solution)
 ```
-npm run serve
+npm run serve --port 80
 ```
