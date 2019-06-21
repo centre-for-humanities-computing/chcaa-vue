@@ -17,5 +17,5 @@ npm run build
 
 ### Serve app (temporary solution)
 ```
-npm run serve --port 80
+npx vue-cli-service serve --port 80
 ```
