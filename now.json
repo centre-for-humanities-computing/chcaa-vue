@@ -1,0 +1,17 @@
+{
+  "name": "website",
+  "type": "static",
+  "static": {
+    "public": "dist",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "alias": "website",
+  "files": [
+    "dist"
+  ]
+}
