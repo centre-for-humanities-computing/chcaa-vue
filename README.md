@@ -15,12 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Serve app (temporary solution)
 ```
-npm run lint
-```
-
-### Build and Deploy
-```
-npm run deploy
+npm run serve
 ```
